@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @thalaforever
-- 👀 I’m interested in C/C++
-- 🌱 I’m currently learning basics of C++
+- 👀 I’m interested in python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: she/her
